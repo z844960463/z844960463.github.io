@@ -18,4 +18,10 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
+	<url>
+		<loc>https://z844960463.github.io/ueo/web-read-skill.html/</loc>
+		<lastmod>2018-5-3</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
 </urlset>
